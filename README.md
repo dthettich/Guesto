@@ -6,22 +6,22 @@ For visualization, jQuery https://www.datatables.net/ were employed.
 The whole page sits in a twitter bootstrap environment. 
 Bootstrap's form elements and checkers along with custom regexps were used before adding a database entry.
 
-#h4 Demo
+## Demo
 
 An example is hosted at http://dirkhettich.de/guesto/
 
-#h2 ToDo
+## ToDo
 
 - removing entries
 - modifying entries
 
-#h2 About
+## About
 
 Drop me a line.
 
 __dthettich@gmail.com__
 
-#h6 Disclaimer
+####### Disclaimer
 
 This is only a working example of database access and visualization. 
 It does not follow the MVC design pattern for separating responsibilities. 
