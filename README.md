@@ -1,6 +1,10 @@
 # Guesto
-Guesto is a database access and creation example in HTML and SQLite3 database access in conjunction with PHP.  
-Its main purpose is organizing guest invitations.
+Guesto is a SQLite3 database access and visualization example in HTML realized with PHP.  
+Its main purpose is organizing guest invitations. 
+
+For visualization, jQuery https://www.datatables.net/ were employed. 
+The whole page sits in a twitter bootstrap environment. 
+Bootstrap's form elements and checkers along with custom regexps were used before adding a database entry.
 
 
 ToDo
