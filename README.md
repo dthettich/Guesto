@@ -24,7 +24,7 @@ __dthettich@gmail.com__
 ####### Disclaimer
 
 This is only a working example of database access and visualization. 
-It does not follow the MVC design pattern for separating responsibilities. 
-Be very careful for database access. Also consider implementing a prepare statement
+It does not consequently follow the MVC design pattern for separating responsibilities. 
+Be very careful with database access. Also consider implementing a prepare statement
 (https://secure.php.net/manual/de/sqlite3.prepare.php).
 
